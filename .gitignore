@@ -49,3 +49,4 @@ logs/
 
 # Ignore les fichiers de sauvegarde
 *.bak
+.vercel
